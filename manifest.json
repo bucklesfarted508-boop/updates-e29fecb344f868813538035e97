@@ -1,5 +1,14 @@
 {
-  "latest": "0.72.0",
-  "url": "",
-  "versions": [{ "version": "0.72.0", "notes": ["Initial closed beta build."] }]
+  "latest": "0.72.1",
+  "url": "https://github.com/bucklesfarted508-boop/updates-e29fecb344f868813538035e97/releases/download/v0.72.1/bundle-0.72.1.zip",
+  "sessionKey": "OhwLIfQRkm1v3MnLOwCh7w==:nTLr2xUQoKhrpnl/VyRvA8SwcpsFMNXGVgp2Q47F7gE0EXOZ94pyZVZsRziFjEImH7XOHoAhOrxvzLPsO+sGJfv4/ZxJQK6YL7Sv2RKJXvN2jMb0f9O5F9V65vsOCpIdY3bglW2E9ytYBdF9t3uw87jFjMK1VdqeHCRVOy8cM4sKoQ0XNOgaB/74QSWvSqWysLGiDfhXJBDhJLnyYhDJ3fh4msFbf+pe8i7azR0q2ewC3yZNRI5ve1CZde82qXwTDFeEm+GutnynayK7jsfcv9AgdHp7gomjYu/q8tYKNTJT0TmMhUYSe+46HtAeIJzjyC8YUop5lga5aw86d1Q/gw==",
+  "checksum": "7e8a723b62f5ab5c19efbe02a21a84eb0e9278d6293acd4b96b956985af41e65056498b334dd87bb686bf588c97418526d696240c44e501eed4ec91e397d4f374a7fa7c7c9786797397a7269a7638f8c8d9f2ab0b62af5404eb3493d849227f7d453cc3d485df11392a003add5a4937fa22d712f8979b4d526bec1fd786c812ca6644442c0cd72c3aaffa67a8802dfbb33777ea136c8a2dd522830601e903cabdfb31a2754bf0352054a8e4ff1a85c01551052dbc620af111532dfee99e73c7c4738462eeff8173c170cb51dfdfbbe2426475d5e69b572ab535c80a1a4e1dede818a9f24f722a99909d9d931186125f81e39f1c0fcb0c22e1e3d4694b88c17b0",
+  "versions": [
+    {
+      "version": "0.72.1",
+      "notes": [
+        "Added a Diagnostics screen (title screen, bottom-right) for reporting issues during the beta"
+      ]
+    }
+  ]
 }
